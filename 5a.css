@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    height: 250px;
+}
+.item{
+background-color: aqua;
+color: black;
+font-weight: 700;
+border: 1px solid #000;
+width: 300px;
+display: flex;
+}
+.aa{
+    align-items: center;
+}
+.bb{
+    justify-content: center;
+    align-items: center;
+}
+.cc{
+    justify-content: flex-end;
+    align-items: center;
+}
+.zz{
+    justify-content: center;
+    }

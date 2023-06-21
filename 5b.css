@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+}
+.item{
+background-color: aqua;
+color: black;
+font-weight: 300;
+border: 1px solid #000;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 10px;
+flex: 1;
+}
+.bb{
+    flex: 2;
+}
+

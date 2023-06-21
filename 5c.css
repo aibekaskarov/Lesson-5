@@ -1,0 +1,26 @@
+.www{
+    display: flex;
+    justify-content: space-evenly;
+}
+.item{
+background-color: aqua;
+color: black;
+font-weight: 400;
+border: 1px solid #000;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 10px;
+}
+.aa{
+    width: 300px;
+    height: 150px;
+}
+.bb{
+    width: 300px;
+    height: 250px;
+}
+.cc{
+    flex: 1;
+    height: 250px;
+}
